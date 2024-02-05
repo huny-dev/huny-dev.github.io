@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://base.huny.dev/categories/</loc>
+    <loc>https://blog.huny.dev/categories/</loc>
   </url><url>
-    <loc>https://base.huny.dev/</loc>
+    <loc>https://blog.huny.dev/</loc>
   </url><url>
-    <loc>https://base.huny.dev/tags/</loc>
+    <loc>https://blog.huny.dev/tags/</loc>
   </url>
 </urlset>
